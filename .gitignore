@@ -1,0 +1,5 @@
+# MASM Files
+*.obj
+*.pdb
+*.exe
+*.ilk
